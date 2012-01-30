@@ -18,6 +18,13 @@
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/BlueMarbleWest.jpg -
 		You might want to translate it into the equivalent words of your language  -->
+		<_name>Henry</_name>
+		<filename>/usr/share/backgrounds/gnome/henry.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/BlueMarbleWest.jpg -
+		You might want to translate it into the equivalent words of your language  -->
 		<_name>Linus</_name>
 		<filename>/usr/share/backgrounds/gnome/linus.jpg</filename>
 		<options>zoom</options>
